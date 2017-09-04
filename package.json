@@ -1,0 +1,37 @@
+{
+  "name": "codeSharingAndCollab",
+  "version": "1.0.0",
+  "description": "It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.",
+  "main": "js/impress.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/impress/impress.js.git"
+  },
+  "keywords": [
+    "presentation",
+    "slides",
+    "slideshow",
+    "css3",
+    "transitions",
+    "transforms",
+    "browser"
+  ],
+  "author": "Lokesh Raj Arora",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lokiiarora/imaginetalks-presentation-cloud/issues"
+  },
+  "scripts": {
+    "start":"nodemon app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "flash": "^1.1.0",
+    "path": "^0.12.7",
+    "request-sanitizer": "0.0.6"    
+  },
+  "devDependencies": {
+    
+  }
+}
