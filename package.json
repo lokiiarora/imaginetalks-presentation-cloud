@@ -22,16 +22,14 @@
     "url": "https://github.com/lokiiarora/imaginetalks-presentation-cloud/issues"
   },
   "scripts": {
-    "start":"nodemon app.js"
+    "start": "nodemon app.js"
   },
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "^4.15.4",
     "flash": "^1.1.0",
     "path": "^0.12.7",
-    "request-sanitizer": "0.0.6"    
+    "request-sanitizer": "1.0.0"
   },
-  "devDependencies": {
-    
-  }
+  "devDependencies": {}
 }
