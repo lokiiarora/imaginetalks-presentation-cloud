@@ -29,7 +29,7 @@
     "express": "^4.15.4",
     "flash": "^1.1.0",
     "path": "^0.12.7",
-    "request-sanitizer": "0.0.6"    
+    "request-sanitizer": "1.0.0"    
   },
   "devDependencies": {
     
